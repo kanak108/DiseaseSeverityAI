@@ -26,5 +26,3 @@ Incorporating the principles of Ayurveda, a holistic approach to medicine, this 
    - Python library for creating various types of visualizations.
    - Introduced by John D. Hunter in 2002.
    - Supports static, animated, and interactive plots.
-
-By presenting the information in this way, it becomes easier to grasp the essential concepts of each component in your tech stack.
